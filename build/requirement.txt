@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+slack-bolt
+slack-sdk
+requests
+pyyaml
+torch
+transformers
+jinja2
+pydantic
